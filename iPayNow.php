@@ -3,7 +3,7 @@ use Phalcon\Logger\Adapter\File;
 use Phalcon\Mvc\User\Component;
 
 /**
- * Project ~ MiniShop_Cli
+ * Project ~ iPayNow
  * FileName: iPayNow.php
  *
  * @author:  Laoliu <laoliu@lanmv.com>
